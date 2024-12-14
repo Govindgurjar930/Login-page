@@ -112,6 +112,6 @@ Contributions are welcome! If you’d like to improve this project:
 ## Author
 
 **Your Name**
-- GitHub: [Your GitHub Profile](https://github.com/your-profile)
-- Email: your-email@example.com
+- GitHub: [Your GitHub Profile]( https://github.com/govindgurjar930)
+- Email: govindgurjar810352534@gmail.com
 
